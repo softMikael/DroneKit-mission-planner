@@ -1,0 +1,1 @@
+The drone will flight in Guided no GPS mode, and keep the altitude at 100 meters, movement based on angles and forward backward commands. In order to use the AltHold mode it must use channel override to pass command as a RC controller. I can modify the program just let me know.
